@@ -1,0 +1,17 @@
+.nav-all{
+  margin-top: 30px;
+}
+
+.nav-style{
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  font-weight: 700;
+  margin-left: 30px;
+  background-color: aquamarine;
+  padding: 0px 20px;
+}
+.nav-style:hover{
+  color: brown;
+  background-color: darkgray
+}
